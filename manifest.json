@@ -1,6 +1,6 @@
 {
   "content_security_policy": "script-src 'self'; object-src 'self'",
-  "update_url": "https://clients2.google.com/service/update2/crx",
+  "update_url": "https://bitst0rm.github.io/releases/bitst0rm-chrome-extensions/Video-Downloader-professional/update.xml",
   "name": "Video Downloader professional",
   "description": "Video Downloader professional - save video from anywhere in SD or HD. One click to download any video directly from any website.",
   "version": "2.0.9",
