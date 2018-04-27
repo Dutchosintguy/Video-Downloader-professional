@@ -1,5 +1,5 @@
 {
-  "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+  "content_security_policy": "script-src 'self'; object-src 'self'",
   "update_url": "https://clients2.google.com/service/update2/crx",
   "name": "Video Downloader professional",
   "description": "Video Downloader professional - save video from anywhere in SD or HD. One click to download any video directly from any website.",

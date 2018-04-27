@@ -1,16 +1,3 @@
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-93153805-1']);
-_gaq.push(['_trackPageview', '/hello']);
- 
-(function() {
-    var ga = document.createElement('script');
-    ga.type = 'text/javascript';
-    ga.async = true;
-    ga.src = 'https://ssl.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(ga, s);
-})();
-
 chrome.runtime.onInstalled.addListener(function() {
     chrome.tabs.create({
         url: 'http://smarturl.it/video-installed'
